@@ -55,7 +55,7 @@ button {
 .navigate-list .link {
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 700;
+  font-weight: 500;
   color: var(--navy-blue-color);
 }
 
@@ -87,7 +87,6 @@ button {
 .hero .title {
   font-size: 56px;
   line-height: 1.07;
-  font-weight: 800;
   color: var(--white-background-color);
 }
 
@@ -119,21 +118,19 @@ button {
 .todo .title {
   font-size: 36px;
   line-height: 1.11;
-  font-weight: 700;
   color: var(--navy-blue-color);
 }
 
 .our-team .title {
   font-size: 36px;
   line-height: 1.11;
-  font-weight: 700;
   color: var(--navy-blue-color);
 }
 
 .our-team .subtitle {
   font-size: 20px;
   line-height: 1.2;
-  font-weight: 700;
+  font-weight: 500;
   color: var(--navy-blue-color);
 }
 
